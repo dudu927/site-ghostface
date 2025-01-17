@@ -1,14 +1,18 @@
 body{
     padding-left: 50px;
     padding-right: 20px;
-    background-color: #000000;
+    background-color: #565656;
     color: #ffffff;
 }
 h1{
- color: #660000;
+ color: #ff0000;
 }
 h2{
 color: #8b0000;
+} 
+h3{
+color: #ee4242;
+
 }
 #poster img{
     height:480px;
