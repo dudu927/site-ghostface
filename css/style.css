@@ -1,9 +1,12 @@
 body{
-    background-color: #00ffff;
+    background-color: #000000;
     color: #ffffff;
 }
 h1{
  color: #ff0000;
+}
+h2{
+    
 }
 #poster img{
     height:480px;
