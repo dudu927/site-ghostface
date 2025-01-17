@@ -3,5 +3,8 @@ body{
     color: #ffffff;
 h1{
  color: #ff0000;}
-#poster img{ 5px;}
+#poster jpg{
+ max-width:30px;
+    max-height:40px;
+}
 }
