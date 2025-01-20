@@ -2,10 +2,12 @@ body{
     padding-left: 50px;
     padding-right: 20px;
     background-color: #000000;
+    
     color: #ffffff;
 }
 h1{
  color: #ff0000;
+    background-image: url(../img/sangrento.jpg);
 }
 h2{
 color: #ff2400;
